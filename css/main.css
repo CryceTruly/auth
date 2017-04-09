@@ -1,0 +1,17 @@
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+section{
+	margin:40px;
+}
+
+#rooms{margin-top: 60px;}
+
+footer{
+	text-align: center;
+	margin-top: 0px;
+	border-top: 3px solid seagreen;
+	padding: 20px;
+}
